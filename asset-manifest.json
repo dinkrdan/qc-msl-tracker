@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/qc-msl-tracker/static/css/main.f855e6bc.css",
+    "main.js": "/qc-msl-tracker/static/js/main.342091da.js",
+    "static/js/453.1095fd62.chunk.js": "/qc-msl-tracker/static/js/453.1095fd62.chunk.js",
+    "index.html": "/qc-msl-tracker/index.html",
+    "static/media/logo.svg": "/qc-msl-tracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.f855e6bc.css.map": "/qc-msl-tracker/static/css/main.f855e6bc.css.map",
+    "main.342091da.js.map": "/qc-msl-tracker/static/js/main.342091da.js.map",
+    "453.1095fd62.chunk.js.map": "/qc-msl-tracker/static/js/453.1095fd62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.342091da.js"
+  ]
+}
